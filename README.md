@@ -49,5 +49,5 @@ This is a **web-based final year project** that predicts a user’s **MBTI perso
 ├── index.php              # Main web page
 ├── Css                    # Styling
 ├── Js                     # JavaScript logic
-├── Plugin/                # Icons, logos, etc.
+├── Plugin/                # Boostrap, Jquery
 └── README.md              # Project description
