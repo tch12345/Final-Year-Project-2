@@ -1,0 +1,411 @@
+2024/06/01 09:12 - Alice: Good morning everyone!
+2024/06/01 09:13 - Bob: Morning, Alice!
+2024/06/01 09:14 - Charlie: Hey hey, what's up?
+2024/06/01 09:15 - Alice: Just having coffee. Anyone up for brunch later?
+2024/06/01 09:16 - Bob: Sounds good to me.
+2024/06/01 09:17 - Charlie: I'm in. Where?
+2024/06/01 09:18 - Alice: Maybe at Leaf Café?
+2024/06/01 09:19 - Bob: Love that place.
+2024/06/01 09:20 - Charlie: Same, their waffles are insane.
+2024/06/01 09:21 - Alice: Okay cool. Let's say 11:30?
+2024/06/01 09:22 - Bob: Works for me.
+2024/06/01 09:23 - Charlie: Yup.
+2024/06/01 09:25 - Alice: Also, did you guys see the email from Dr. Tan?
+2024/06/01 09:26 - Bob: About the assignment?
+2024/06/01 09:27 - Charlie: Yeah, due next Friday 😵‍💫
+2024/06/01 09:28 - Alice: Ugh. We need to start early this time.
+2024/06/01 09:29 - Bob: Agreed. Want to meet tomorrow?
+2024/06/01 09:30 - Charlie: Sure, I’ll bring my laptop.
+2024/06/01 09:31 - Alice: Cool. Let's meet at the library at 10?
+2024/06/01 09:32 - Bob: Confirmed.
+2024/06/01 09:33 - Charlie: Confirmed!
+2024/06/01 10:01 - Alice: I’m revising the last topic now.
+2024/06/01 10:02 - Bob: Which one? The NLP part?
+2024/06/01 10:03 - Charlie: I think it's on data preprocessing.
+2024/06/01 10:04 - Alice: Yup, that’s the one.
+2024/06/01 10:05 - Bob: Do we need to write code or just explain?
+2024/06/01 10:06 - Charlie: I think we need both.
+2024/06/01 10:07 - Alice: Exactly. There's an example in the slides.
+2024/06/01 10:08 - Bob: Oh okay. Will check it.
+2024/06/01 10:09 - Charlie: Don't forget the diagram too!
+2024/06/01 10:10 - Alice: Good reminder 😅
+2024/06/01 10:11 - Bob: Btw, who's printing the handout?
+2024/06/01 10:12 - Charlie: I can do it tonight.
+2024/06/01 10:13 - Alice: Awesome, thanks!
+2024/06/01 10:14 - Bob: Thanks, Charlie.
+2024/06/01 10:15 - Charlie: No problem!
+2024/06/01 10:20 - Alice: Anyone bringing snacks tomorrow? 😂
+2024/06/01 10:21 - Bob: I can bring chips.
+2024/06/01 10:22 - Charlie: I’ll get cookies 🍪
+2024/06/01 10:23 - Alice: Great. Let’s power through tomorrow!
+2024/06/01 10:24 - Bob: Let’s do it 💪
+2024/06/01 10:25 - Charlie: Go team!
+2024/06/02 08:00 - Alice: Morning! On the way to library.
+2024/06/02 08:05 - Bob: Just left home.
+2024/06/02 08:07 - Charlie: Running a bit late. 15 mins!
+2024/06/02 08:10 - Alice: All good. I’ll grab a table.
+2024/06/02 08:15 - Bob: Got coffee. Want one?
+2024/06/02 08:16 - Charlie: Yes please! Black no sugar.
+2024/06/02 08:17 - Alice: Same here. Thanks Bob 🙌
+2024/06/02 08:18 - Bob: Got it.
+2024/06/02 08:30 - Charlie: I'm here!
+2024/06/02 08:31 - Bob: Me too.
+2024/06/02 08:32 - Alice: Let’s go! Focus mode on 🔥
+2024/06/02 08:33 - Charlie: Opened the doc.
+2024/06/02 08:34 - Bob: Same here.
+2024/06/02 08:35 - Alice: Let’s crush this 💻
+2024/06/02 09:06 - Charlie: I'll clean up the grammar.
+2024/06/02 09:07 - Alice: Did you finish the draft?
+2024/06/02 09:11 - Charlie: Can someone proofread it?
+2024/06/02 09:13 - Alice: Can you check the conclusion part?
+2024/06/02 09:17 - Bob: Sounds good to me.
+2024/06/02 09:22 - Bob: Meeting at 2 PM, right?
+2024/06/02 09:27 - Bob: Looks perfect to me.
+2024/06/02 09:30 - Charlie: Printing later today.
+2024/06/02 09:34 - Charlie: Let's discuss this later.
+2024/06/02 09:37 - Alice: Did you finish the draft?
+2024/06/02 09:39 - Alice: I'll submit it by 5 PM.
+2024/06/02 09:41 - Alice: Can you check the conclusion part?
+2024/06/02 09:42 - Bob: Almost done with my section.
+2024/06/02 09:43 - Bob: I'll handle the formatting.
+2024/06/02 09:46 - Alice: Lunch later?
+2024/06/02 09:47 - Bob: I'll handle the formatting.
+2024/06/02 09:52 - Bob: Wait, which version is final?
+2024/06/02 09:55 - Alice: Already sent the email.
+2024/06/02 09:58 - Bob: I'll handle the formatting.
+2024/06/02 09:59 - Alice: Lunch later?
+2024/06/02 10:04 - Bob: Meeting at 2 PM, right?
+2024/06/02 10:05 - Bob: Almost done with my section.
+2024/06/02 10:10 - Charlie: Let's discuss this later.
+2024/06/02 10:13 - Charlie: I'll start the summary next.
+2024/06/02 10:14 - Charlie: Should we include that chart?
+2024/06/02 10:18 - Bob: Almost done with my section.
+2024/06/02 10:22 - Charlie: Working on it now.
+2024/06/02 10:27 - Alice: Lunch later?
+2024/06/02 10:28 - Bob: Meeting at 2 PM, right?
+2024/06/02 10:33 - Alice: I'm working on the charts now.
+2024/06/02 10:34 - Alice: Let's take a short break soon.
+2024/06/02 10:39 - Charlie: We should double-check the data.
+2024/06/02 10:40 - Charlie: Can someone proofread it?
+2024/06/02 10:45 - Alice: Can you check the conclusion part?
+2024/06/02 10:46 - Charlie: Should we include that chart?
+2024/06/02 10:50 - Bob: Wait, which version is final?
+2024/06/02 10:51 - Bob: Looks perfect to me.
+2024/06/02 10:54 - Bob: Yes, I added more references.
+2024/06/02 10:57 - Charlie: Should we include that chart?
+2024/06/02 10:59 - Bob: I'll handle the formatting.
+2024/06/02 11:03 - Bob: Sounds good to me.
+2024/06/02 11:08 - Alice: We're doing great!
+2024/06/02 11:09 - Alice: We're doing great!
+2024/06/02 11:14 - Alice: Already sent the email.
+2024/06/02 11:15 - Bob: Almost done with my section.
+2024/06/02 11:19 - Charlie: Saved everything to the drive.
+2024/06/02 11:22 - Charlie: We should double-check the data.
+2024/06/02 11:27 - Alice: I'll submit it by 5 PM.
+2024/06/02 11:32 - Bob: Wait, which version is final?
+2024/06/02 11:36 - Bob: Sounds good to me.
+2024/06/02 11:41 - Charlie: I'll start the summary next.
+2024/06/02 11:43 - Charlie: Ready when you are.
+2024/06/02 11:48 - Bob: Looks perfect to me.
+2024/06/02 11:51 - Charlie: Let's discuss this later.
+2024/06/02 11:52 - Charlie: Ready when you are.
+2024/06/02 11:53 - Alice: Already sent the email.
+2024/06/02 11:55 - Alice: Already sent the email.
+2024/06/02 11:59 - Charlie: Ready when you are.
+2024/06/02 12:02 - Alice: Already sent the email.
+2024/06/02 12:03 - Alice: This part is confusing to me.
+2024/06/02 12:05 - Alice: We're doing great!
+2024/06/02 12:08 - Charlie: Ready when you are.
+2024/06/02 12:10 - Alice: Already sent the email.
+2024/06/02 12:13 - Bob: Yes, I added more references.
+2024/06/02 12:15 - Alice: Did you finish the draft?
+2024/06/02 12:18 - Charlie: I'll start the summary next.
+2024/06/02 12:19 - Alice: We're doing great!
+2024/06/02 12:21 - Charlie: I'll start the summary next.
+2024/06/02 12:22 - Alice: Let's take a short break soon.
+2024/06/02 12:26 - Alice: I'll submit it by 5 PM.
+2024/06/02 12:29 - Alice: Already sent the email.
+2024/06/02 12:30 - Bob: Almost done with my section.
+2024/06/02 12:33 - Alice: We're doing great!
+2024/06/02 12:36 - Charlie: Can someone proofread it?
+2024/06/02 12:41 - Charlie: Should we include that chart?
+2024/06/02 12:44 - Bob: I'll handle the formatting.
+2024/06/02 12:47 - Bob: I'll handle the formatting.
+2024/06/02 12:49 - Charlie: I'll clean up the grammar.
+2024/06/02 12:53 - Charlie: Printing later today.
+2024/06/02 12:58 - Bob: I'll handle the formatting.
+2024/06/02 13:03 - Charlie: Can someone proofread it?
+2024/06/02 13:06 - Alice: Lunch later?
+2024/06/02 13:11 - Charlie: Printing later today.
+2024/06/02 13:12 - Bob: Almost done with my section.
+2024/06/02 13:15 - Alice: We're doing great!
+2024/06/02 13:20 - Bob: Yes, I added more references.
+2024/06/02 13:21 - Alice: I'll submit it by 5 PM.
+2024/06/02 13:23 - Alice: We're doing great!
+2024/06/02 13:25 - Bob: Wait, which version is final?
+2024/06/02 13:26 - Alice: Lunch later?
+2024/06/02 13:28 - Alice: Let's take a short break soon.
+2024/06/02 13:33 - Bob: Sounds good to me.
+2024/06/02 13:35 - Charlie: Ready when you are.
+2024/06/02 13:37 - Bob: I'll handle the formatting.
+2024/06/02 13:39 - Charlie: Saved everything to the drive.
+2024/06/02 13:42 - Bob: Reviewing now.
+2024/06/02 13:43 - Alice: We're doing great!
+2024/06/02 13:44 - Bob: Looks perfect to me.
+2024/06/02 13:46 - Charlie: We should double-check the data.
+2024/06/02 13:47 - Alice: We're doing great!
+2024/06/02 13:49 - Bob: Yes, I added more references.
+2024/06/02 13:54 - Alice: Already sent the email.
+2024/06/02 13:56 - Charlie: Working on it now.
+2024/06/02 14:00 - Bob: Sure, see you there.
+2024/06/02 14:03 - Alice: Did you finish the draft?
+2024/06/02 14:08 - Bob: Sounds good to me.
+2024/06/02 14:10 - Charlie: Saved everything to the drive.
+2024/06/02 14:15 - Charlie: We should double-check the data.
+2024/06/02 14:16 - Bob: Meeting at 2 PM, right?
+2024/06/02 14:21 - Charlie: We should double-check the data.
+2024/06/02 14:24 - Alice: Let's take a short break soon.
+2024/06/02 14:29 - Alice: Did you finish the draft?
+2024/06/02 14:34 - Bob: Sounds good to me.
+2024/06/02 14:38 - Charlie: I'll start the summary next.
+2024/06/02 14:43 - Bob: Looks perfect to me.
+2024/06/02 14:46 - Charlie: Working on it now.
+2024/06/02 14:50 - Alice: I'm working on the charts now.
+2024/06/02 14:55 - Charlie: We should double-check the data.
+2024/06/02 14:58 - Charlie: Working on it now.
+2024/06/02 15:03 - Alice: This part is confusing to me.
+2024/06/02 15:04 - Bob: Almost done with my section.
+2024/06/02 15:06 - Alice: Did you finish the draft?
+2024/06/02 15:09 - Alice: Lunch later?
+2024/06/02 15:10 - Charlie: I'll start the summary next.
+2024/06/02 15:13 - Charlie: Printing later today.
+2024/06/02 15:15 - Alice: Did you finish the draft?
+2024/06/02 15:19 - Charlie: Working on it now.
+2024/06/02 15:24 - Charlie: Let's discuss this later.
+2024/06/02 15:28 - Alice: I'll submit it by 5 PM.
+2024/06/02 15:32 - Alice: Can you check the conclusion part?
+2024/06/02 15:33 - Bob: Reviewing now.
+2024/06/02 15:36 - Charlie: We should double-check the data.
+2024/06/02 15:37 - Alice: We're doing great!
+2024/06/02 15:38 - Charlie: Printing later today.
+2024/06/02 15:42 - Bob: Looks perfect to me.
+2024/06/02 15:47 - Alice: Lunch later?
+2024/06/02 15:51 - Charlie: Can someone proofread it?
+2024/06/02 15:52 - Charlie: Saved everything to the drive.
+2024/06/02 15:56 - Alice: We're doing great!
+2024/06/02 16:01 - Alice: Lunch later?
+2024/06/02 16:05 - Alice: Don't forget to reference that article.
+2024/06/02 16:09 - Charlie: Saved everything to the drive.
+2024/06/02 16:11 - Bob: Sounds good to me.
+2024/06/02 16:15 - Charlie: Should we include that chart?
+2024/06/02 16:19 - Alice: Already sent the email.
+2024/06/02 16:22 - Charlie: Saved everything to the drive.
+2024/06/02 16:25 - Bob: Yes, I added more references.
+2024/06/02 16:27 - Charlie: Printing later today.
+2024/06/02 16:32 - Alice: Lunch later?
+2024/06/01 09:12 - Alice: Good morning everyone!
+2024/06/01 09:13 - Bob: Morning, Alice!
+2024/06/01 09:14 - Charlie: Hey hey, what's up?
+2024/06/01 09:15 - Alice: Just having coffee. Anyone up for brunch later?
+2024/06/01 09:16 - Bob: Sounds good to me.
+2024/06/01 09:17 - Charlie: I'm in. Where?
+2024/06/01 09:18 - Alice: Maybe at Leaf Café?
+2024/06/01 09:19 - Bob: Love that place.
+2024/06/01 09:20 - Charlie: Same, their waffles are insane.
+2024/06/01 09:21 - Alice: Okay cool. Let's say 11:30?
+2024/06/01 09:22 - Bob: Works for me.
+2024/06/01 09:23 - Charlie: Yup.
+2024/06/01 09:25 - Alice: Also, did you guys see the email from Dr. Tan?
+2024/06/01 09:26 - Bob: About the assignment?
+2024/06/01 09:27 - Charlie: Yeah, due next Friday 😵‍💫
+2024/06/01 09:28 - Alice: Ugh. We need to start early this time.
+2024/06/01 09:29 - Bob: Agreed. Want to meet tomorrow?
+2024/06/01 09:30 - Charlie: Sure, I’ll bring my laptop.
+2024/06/01 09:31 - Alice: Cool. Let's meet at the library at 10?
+2024/06/01 09:32 - Bob: Confirmed.
+2024/06/01 09:33 - Charlie: Confirmed!
+2024/06/01 10:01 - Alice: I’m revising the last topic now.
+2024/06/01 10:02 - Bob: Which one? The NLP part?
+2024/06/01 10:03 - Charlie: I think it's on data preprocessing.
+2024/06/01 10:04 - Alice: Yup, that’s the one.
+2024/06/01 10:05 - Bob: Do we need to write code or just explain?
+2024/06/01 10:06 - Charlie: I think we need both.
+2024/06/01 10:07 - Alice: Exactly. There's an example in the slides.
+2024/06/01 10:08 - Bob: Oh okay. Will check it.
+2024/06/01 10:09 - Charlie: Don't forget the diagram too!
+2024/06/01 10:10 - Alice: Good reminder 😅
+2024/06/01 10:11 - Bob: Btw, who's printing the handout?
+2024/06/01 10:12 - Charlie: I can do it tonight.
+2024/06/01 10:13 - Alice: Awesome, thanks!
+2024/06/01 10:14 - Bob: Thanks, Charlie.
+2024/06/01 10:15 - Charlie: No problem!
+2024/06/01 10:20 - Alice: Anyone bringing snacks tomorrow? 😂
+2024/06/01 10:21 - Bob: I can bring chips.
+2024/06/01 10:22 - Charlie: I’ll get cookies 🍪
+2024/06/01 10:23 - Alice: Great. Let’s power through tomorrow!
+2024/06/01 10:24 - Bob: Let’s do it 💪
+2024/06/01 10:25 - Charlie: Go team!
+2024/06/02 08:00 - Alice: Morning! On the way to library.
+2024/06/02 08:05 - Bob: Just left home.
+2024/06/02 08:07 - Charlie: Running a bit late. 15 mins!
+2024/06/02 08:10 - Alice: All good. I’ll grab a table.
+2024/06/02 08:15 - Bob: Got coffee. Want one?
+2024/06/02 08:16 - Charlie: Yes please! Black no sugar.
+2024/06/02 08:17 - Alice: Same here. Thanks Bob 🙌
+2024/06/02 08:18 - Bob: Got it.
+2024/06/02 08:30 - Charlie: I'm here!
+2024/06/02 08:31 - Bob: Me too.
+2024/06/02 08:32 - Alice: Let’s go! Focus mode on 🔥
+2024/06/02 08:33 - Charlie: Opened the doc.
+2024/06/02 08:34 - Bob: Same here.
+2024/06/02 08:35 - Alice: Let’s crush this 💻
+2024/06/02 09:06 - Charlie: I'll clean up the grammar.
+2024/06/02 09:07 - Alice: Did you finish the draft?
+2024/06/02 09:11 - Charlie: Can someone proofread it?
+2024/06/02 09:13 - Alice: Can you check the conclusion part?
+2024/06/02 09:17 - Bob: Sounds good to me.
+2024/06/02 09:22 - Bob: Meeting at 2 PM, right?
+2024/06/02 09:27 - Bob: Looks perfect to me.
+2024/06/02 09:30 - Charlie: Printing later today.
+2024/06/02 09:34 - Charlie: Let's discuss this later.
+2024/06/02 09:37 - Alice: Did you finish the draft?
+2024/06/02 09:39 - Alice: I'll submit it by 5 PM.
+2024/06/02 09:41 - Alice: Can you check the conclusion part?
+2024/06/02 09:42 - Bob: Almost done with my section.
+2024/06/02 09:43 - Bob: I'll handle the formatting.
+2024/06/02 09:46 - Alice: Lunch later?
+2024/06/02 09:47 - Bob: I'll handle the formatting.
+2024/06/02 09:52 - Bob: Wait, which version is final?
+2024/06/02 09:55 - Alice: Already sent the email.
+2024/06/02 09:58 - Bob: I'll handle the formatting.
+2024/06/02 09:59 - Alice: Lunch later?
+2024/06/02 10:04 - Bob: Meeting at 2 PM, right?
+2024/06/02 10:05 - Bob: Almost done with my section.
+2024/06/02 10:10 - Charlie: Let's discuss this later.
+2024/06/02 10:13 - Charlie: I'll start the summary next.
+2024/06/02 10:14 - Charlie: Should we include that chart?
+2024/06/02 10:18 - Bob: Almost done with my section.
+2024/06/02 10:22 - Charlie: Working on it now.
+2024/06/02 10:27 - Alice: Lunch later?
+2024/06/02 10:28 - Bob: Meeting at 2 PM, right?
+2024/06/02 10:33 - Alice: I'm working on the charts now.
+2024/06/02 10:34 - Alice: Let's take a short break soon.
+2024/06/02 10:39 - Charlie: We should double-check the data.
+2024/06/02 10:40 - Charlie: Can someone proofread it?
+2024/06/02 10:45 - Alice: Can you check the conclusion part?
+2024/06/02 10:46 - Charlie: Should we include that chart?
+2024/06/02 10:50 - Bob: Wait, which version is final?
+2024/06/02 10:51 - Bob: Looks perfect to me.
+2024/06/02 10:54 - Bob: Yes, I added more references.
+2024/06/02 10:57 - Charlie: Should we include that chart?
+2024/06/02 10:59 - Bob: I'll handle the formatting.
+2024/06/02 11:03 - Bob: Sounds good to me.
+2024/06/02 11:08 - Alice: We're doing great!
+2024/06/02 11:09 - Alice: We're doing great!
+2024/06/02 11:14 - Alice: Already sent the email.
+2024/06/02 11:15 - Bob: Almost done with my section.
+2024/06/02 11:19 - Charlie: Saved everything to the drive.
+2024/06/02 11:22 - Charlie: We should double-check the data.
+2024/06/02 11:27 - Alice: I'll submit it by 5 PM.
+2024/06/02 11:32 - Bob: Wait, which version is final?
+2024/06/02 11:36 - Bob: Sounds good to me.
+2024/06/02 11:41 - Charlie: I'll start the summary next.
+2024/06/02 11:43 - Charlie: Ready when you are.
+2024/06/02 11:48 - Bob: Looks perfect to me.
+2024/06/02 11:51 - Charlie: Let's discuss this later.
+2024/06/02 11:52 - Charlie: Ready when you are.
+2024/06/02 11:53 - Alice: Already sent the email.
+2024/06/02 11:55 - Alice: Already sent the email.
+2024/06/02 11:59 - Charlie: Ready when you are.
+2024/06/02 12:02 - Alice: Already sent the email.
+2024/06/02 12:03 - Alice: This part is confusing to me.
+2024/06/02 12:05 - Alice: We're doing great!
+2024/06/02 12:08 - Charlie: Ready when you are.
+2024/06/02 12:10 - Alice: Already sent the email.
+2024/06/02 12:13 - Bob: Yes, I added more references.
+2024/06/02 12:15 - Alice: Did you finish the draft?
+2024/06/02 12:18 - Charlie: I'll start the summary next.
+2024/06/02 12:19 - Alice: We're doing great!
+2024/06/02 12:21 - Charlie: I'll start the summary next.
+2024/06/02 12:22 - Alice: Let's take a short break soon.
+2024/06/02 12:26 - Alice: I'll submit it by 5 PM.
+2024/06/02 12:29 - Alice: Already sent the email.
+2024/06/02 12:30 - Bob: Almost done with my section.
+2024/06/02 12:33 - Alice: We're doing great!
+2024/06/02 12:36 - Charlie: Can someone proofread it?
+2024/06/02 12:41 - Charlie: Should we include that chart?
+2024/06/02 12:44 - Bob: I'll handle the formatting.
+2024/06/02 12:47 - Bob: I'll handle the formatting.
+2024/06/02 12:49 - Charlie: I'll clean up the grammar.
+2024/06/02 12:53 - Charlie: Printing later today.
+2024/06/02 12:58 - Bob: I'll handle the formatting.
+2024/06/02 13:03 - Charlie: Can someone proofread it?
+2024/06/02 13:06 - Alice: Lunch later?
+2024/06/02 13:11 - Charlie: Printing later today.
+2024/06/02 13:12 - Bob: Almost done with my section.
+2024/06/02 13:15 - Alice: We're doing great!
+2024/06/02 13:20 - Bob: Yes, I added more references.
+2024/06/02 13:21 - Alice: I'll submit it by 5 PM.
+2024/06/02 13:23 - Alice: We're doing great!
+2024/06/02 13:25 - Bob: Wait, which version is final?
+2024/06/02 13:26 - Alice: Lunch later?
+2024/06/02 13:28 - Alice: Let's take a short break soon.
+2024/06/02 13:33 - Bob: Sounds good to me.
+2024/06/02 13:35 - Charlie: Ready when you are.
+2024/06/02 13:37 - Bob: I'll handle the formatting.
+2024/06/02 13:39 - Charlie: Saved everything to the drive.
+2024/06/02 13:42 - Bob: Reviewing now.
+2024/06/02 13:43 - Alice: We're doing great!
+2024/06/02 13:44 - Bob: Looks perfect to me.
+2024/06/02 13:46 - Charlie: We should double-check the data.
+2024/06/02 13:47 - Alice: We're doing great!
+2024/06/02 13:49 - Bob: Yes, I added more references.
+2024/06/02 13:54 - Alice: Already sent the email.
+2024/06/02 13:56 - Charlie: Working on it now.
+2024/06/02 14:00 - Bob: Sure, see you there.
+2024/06/02 14:03 - Alice: Did you finish the draft?
+2024/06/02 14:08 - Bob: Sounds good to me.
+2024/06/02 14:10 - Charlie: Saved everything to the drive.
+2024/06/02 14:15 - Charlie: We should double-check the data.
+2024/06/02 14:16 - Bob: Meeting at 2 PM, right?
+2024/06/02 14:21 - Charlie: We should double-check the data.
+2024/06/02 14:24 - Alice: Let's take a short break soon.
+2024/06/02 14:29 - Alice: Did you finish the draft?
+2024/06/02 14:34 - Bob: Sounds good to me.
+2024/06/02 14:38 - Charlie: I'll start the summary next.
+2024/06/02 14:43 - Bob: Looks perfect to me.
+2024/06/02 14:46 - Charlie: Working on it now.
+2024/06/02 14:50 - Alice: I'm working on the charts now.
+2024/06/02 14:55 - Charlie: We should double-check the data.
+2024/06/02 14:58 - Charlie: Working on it now.
+2024/06/02 15:03 - Alice: This part is confusing to me.
+2024/06/02 15:04 - Bob: Almost done with my section.
+2024/06/02 15:06 - Alice: Did you finish the draft?
+2024/06/02 15:09 - Alice: Lunch later?
+2024/06/02 15:10 - Charlie: I'll start the summary next.
+2024/06/02 15:13 - Charlie: Printing later today.
+2024/06/02 15:15 - Alice: Did you finish the draft?
+2024/06/02 15:19 - Charlie: Working on it now.
+2024/06/02 15:24 - Charlie: Let's discuss this later.
+2024/06/02 15:28 - Alice: I'll submit it by 5 PM.
+2024/06/02 15:32 - Alice: Can you check the conclusion part?
+2024/06/02 15:33 - Bob: Reviewing now.
+2024/06/02 15:36 - Charlie: We should double-check the data.
+2024/06/02 15:37 - Alice: We're doing great!
+2024/06/02 15:38 - Charlie: Printing later today.
+2024/06/02 15:42 - Bob: Looks perfect to me.
+2024/06/02 15:47 - Alice: Lunch later?
+2024/06/02 15:51 - Charlie: Can someone proofread it?
+2024/06/02 15:52 - Charlie: Saved everything to the drive.
+2024/06/02 15:56 - Alice: We're doing great!
+2024/06/02 16:01 - Alice: Lunch later?
+2024/06/02 16:05 - Alice: Don't forget to reference that article.
+2024/06/02 16:09 - Charlie: Saved everything to the drive.
+2024/06/02 16:11 - Bob: Sounds good to me.
+2024/06/02 16:15 - Charlie: Should we include that chart?
+2024/06/02 16:19 - Alice: Already sent the email.
+2024/06/02 16:22 - Charlie: Saved everything to the drive.
+2024/06/02 16:25 - Bob: Yes, I added more references.
+2024/06/02 16:27 - Charlie: Printing later today.
+2024/06/02 16:32 - Alice: Lunch later?
+
